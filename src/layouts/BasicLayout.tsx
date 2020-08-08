@@ -28,7 +28,7 @@ const BasicLayout: React.FC = () => {
             onClick: toggle,
           })}
         </Header>
-        <Content>Content</Content>
+        <Content>hello</Content>
         <Footer>Footer</Footer>
       </Layout>
     </Layout>
